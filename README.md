@@ -1,7 +1,7 @@
 <p align="center">
    <img  src="public/logo.svg">  
 </p>
-</br></br>
+</br>
 <p align="center">
    <img src="public/1.jpg">  
 </p>
@@ -24,8 +24,6 @@
 <p align="center">
    <img src="public/4.jpg">  
 </p>
-</br></br>
-
 <h2>Tecnologias</h2>
 <ul>
    <li>React</li>
