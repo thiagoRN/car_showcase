@@ -1,6 +1,4 @@
-<p align="center">
-   <img  src="public/logo.svg">  
-</p>
+<h1 align="center"><a href="https://car-showcase-cl57.vercel.app/" target="_blank" rel="noopener noreferrer">CarHub</a></h1>
 </br>
 <p align="center">
    <img src="public/1.jpg">  
