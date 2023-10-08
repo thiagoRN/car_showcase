@@ -3,7 +3,7 @@
 </p>
 </br></br>
 <p align="center">
-   <img  src="public/1.jp">  
+   <img  src="public/1.jpg">  
 </p>
 </br></br></br>
 <h2>Projeto</h2>
@@ -18,7 +18,7 @@
 </p>
 
 
-<p>F.</p>
+<p>Neste projeto foi utilizado a API RapidAPI Cars para gerar os diversos tipos de carros e consultar as suas características.</p>
 </br></br></br>
 
 <p align="center">
