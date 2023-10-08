@@ -12,11 +12,11 @@
 <p align="center">
    <img src="public/2.jpg">  
 </p>
-
+</br></br>
 <p align="center">
    <img src="public/3.jpg">  
 </p>
-
+</br></br>
 
 <p>Neste projeto foi utilizado a API RapidAPI Cars para gerar os diversos tipos de carros e consultar as suas características.</p>
 </br></br></br>
@@ -24,7 +24,7 @@
 <p align="center">
    <img src="public/4.jpg">  
 </p>
-
+</br></br>
 
 <h2>Tecnologias</h2>
 <ul>
