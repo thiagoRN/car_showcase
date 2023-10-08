@@ -3,7 +3,7 @@
 </p>
 </br></br>
 <p align="center">
-   <img  src="public/1.jpg">  
+   <img src="public/1.jpg">  
 </p>
 </br></br></br>
 <h2>Projeto</h2>
