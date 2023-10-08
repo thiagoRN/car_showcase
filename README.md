@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+   <img  src="public/1.jpg">  
+</p>
+</br></br>
+<p align="center">
+   <img  src="src/assets/images/room1.png">  
+</p>
+</br></br></br>
 
-## Getting Started
+<p align="center">
+   <img src="src/assets/images/room2.png">  
+</p>
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h2>Projeto</h2>
+<p>Letmeask é um projeto criado para que pessoas possam criar salas de Q&A com o seu público, de uma forma facil, pratica e organizada.</p>
+</br>
+<p>Este é um projeto desenvolvido durante a <strong>Next Level Week Together</strong>, apresentada dos dias 20 a 27 de Junho de 2021.</p>
+</br></br></br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<p align="center">
+   <img src="src/assets/images/room3.png">  
+</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h2>Tecnologias</h2>
+<ul>
+   <li>React</li>
+   <li>Firebase</li>
+   <li>TypeScript</li>
+</ul>
